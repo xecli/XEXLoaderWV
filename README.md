@@ -11,7 +11,7 @@ This fork carries maintained fixes and publishes ready-to-install release zips.
 - Fixed PDB root stream page counting so PDBs with sub-page root directories parse correctly.
 - Fixed CodeView `LF_ARRAY` imports so byte lengths are converted into the correct element counts.
 - Fixed `.pdata` handling so imported entries become real Ghidra functions instead of label-only symbols.
-- Release zips for the fork are published on the [Releases](https://github.com/SaveEditors/XEXLoaderWV/releases) page.
+- Release zips for the fork are published on the [Releases](https://github.com/xecli/XEXLoaderWV/releases) page.
 - The upstream patch was submitted as [zeroKilo/XEXLoaderWV#33](https://github.com/zeroKilo/XEXLoaderWV/pull/33).
 
 ## Features
